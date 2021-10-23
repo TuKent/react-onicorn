@@ -1,0 +1,126 @@
+@media (max-width: 1440px) {
+    .home-box-1 .welcome-text {
+        font-size: 40px
+    }
+
+    .home-box-1 .womentech-text {
+        font-size: 70px;
+    }
+
+    .home-box-1 .info-text {
+        font-size: 25px;
+    }
+
+    .btn-login {
+        padding: 15px 25px
+    }
+
+    .about-title,
+    .service-title,
+    .media-title,
+    .partner-box {
+        font-size: 40px;
+    }
+
+    .about-text {
+        font-size: 25px;
+    }
+
+    .card-title {
+        font-size: 25px;
+    }
+
+
+    .who-box {
+        margin-bottom: 100px;
+    }
+
+
+
+
+    /* HOME SERVICE */
+
+    .service-box{
+        margin-bottom: 0px;
+    }
+
+    /* HOME MEDIA */
+
+    .media-container {
+        padding: 100px 0px 100px;
+    }
+
+    /* HOME PARTNER */
+    .home-container-3{
+        padding: 80px 0px;
+    }
+
+    /* FOOTER */
+    .footer-contact{
+        padding: 80px 0px 40px;
+    }
+    
+}
+
+@media (max-width: 600px) {
+    .home-container-1{
+        padding: 100px 0px;
+    }
+
+    .home-box-1 .welcome-text{
+        font-size: 30px;
+    }
+
+    .home-box-1 .womentech-text{
+        font-size: 60px;
+    }
+
+    .home-box-1{
+        text-align: center;
+    }
+
+    .about-box{
+        padding: 40px 0px;
+    }
+
+    .who-box{
+        margin-bottom: 50px;
+    }
+
+    .media-container{
+        padding: 50px 0px 50px;
+    }
+
+    .home-container-3{
+        padding: 40px 0px;
+    }
+
+    .footer-contact{
+        padding: 40px 0px 20px;
+    }
+
+    .footer-contact::after{
+        margin: 20px 15px 0px;
+    }
+
+    .footer-copyright{
+        padding-bottom: 30px;
+    }
+} 
+
+@media (max-width:480px) {
+    .home-box-1 .welcome-text{
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    .home-box-1 .womentech-text{
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+
+    .home-box-1 .info-text{
+        font-size: 20px;
+        margin-bottom: 25px;
+    }
+}
